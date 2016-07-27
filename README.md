@@ -1,4 +1,4 @@
-# WplikeDislike
+# cool-like-dislike
 Plugin for WordPress that will help to organize a system of buttons "like" and "dislike" button on your website
 
 ##Installation

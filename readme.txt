@@ -1,4 +1,4 @@
-=== wp-like-dislike ===
+=== cool-like-dislike ===
 Contributors: kotlyarov
 Tags: rating, likeDislike
 Requires at least: 4.3.1

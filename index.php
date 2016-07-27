@@ -1,6 +1,6 @@
 <?php
 /**
-Plugin Name: WP Like - DisLike
+Plugin Name: Cool Like - DisLike
 Plugin URI: https://github.com/BorisKotlyarov/WplikeDislike
 Description: Плагин организует систему кнопок "Нравится" и "Не нравится"
 Version: 1.0.0
